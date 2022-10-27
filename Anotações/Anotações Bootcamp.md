@@ -41,6 +41,9 @@ A tag <body> é o corpo da página, aquilo que vai ser mostrado ao usuário dent
  - Hidden: É um atributo que fica vazio ao usuário mas tem dados quando são enviados ao servidor.
  - File: É um campo para selecionar arquivos para serem enviados. Sendo possível utilizar o atributo multiple para enviar vários arquivos.
  - Search: Cria um campo de texto para digitar uma busca.
+ 
+ ##
+ 
 # CSS
 
 - 
